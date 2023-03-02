@@ -1,0 +1,19 @@
+{
+  "name": "shoppingKart",
+  "version": "0.0.0",
+  "description": "Carrito de compra",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abigail-Obrajero1/shoppingKart.git"
+  },
+  "author": "abigailobrajero@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abigail-Obrajero1/shoppingKart/issues"
+  },
+  "homepage": "https://github.com/Abigail-Obrajero1/shoppingKart#readme"
+}
